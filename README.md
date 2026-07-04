@@ -90,14 +90,8 @@ LogicBox/
 - Input validation with error handling
 - Colored terminal output
 
-🤝 Contributions
-
-Suggestions and improvements are welcome. Feel free to fork the project, submit issues, or create pull requests.
-
-📄 License
-
-This project is available under the MIT License.
-
 ---
 
 "Small programs build strong programming skills."
+
+
